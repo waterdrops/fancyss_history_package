@@ -10,3 +10,5 @@ f9cef8b49cc7f4302b86b03a7f0ce140 fancyss_ipq32_lite_3.4.0.tar.gz
 4006479d657f77278b287aa6a41b3ff3 fancyss_ipq32_lite_3.4.1.tar.gz
 7f073ec47fc178ff992145b2fe5f3992 fancyss_ipq32_full_3.4.2.tar.gz
 cc170586305a0e8e6589b2e85486447b fancyss_ipq32_lite_3.4.2.tar.gz
+6661e035c4275ce692000c5ba7c46be4 fancyss_ipq32_full_3.4.3.tar.gz
+9c0deb9c5f0a635f2afc7e360e2fc809 fancyss_ipq32_lite_3.4.3.tar.gz
